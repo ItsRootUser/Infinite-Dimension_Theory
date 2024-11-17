@@ -23,11 +23,6 @@ The theory challenges conventional boundaries of physics and mathematics, offeri
 - **Practical Innovations:** Provides frameworks for faster space travel, advanced physics, and new technologies.
 - **Philosophical Insights:** Explores the meaning of dimensions and their impact on our understanding of reality.
 
-
-Dive into Analogies:
-Visit examples/2D_to_3D.md to grasp the concepts through simple and relatable analogies.
-
-
 ## Contributing
 
 This repository is a collaborative space. Contributions are welcome!
