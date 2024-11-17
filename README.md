@@ -39,4 +39,5 @@ This repository is a collaborative space. Contributions are welcome!
 For questions or discussions, feel free to reach out:
 
 Repository Owner: Martin Peter Majirský
+
 Discord: rootuser
